@@ -1,0 +1,64 @@
+body {
+ background-image: url(../images/background.png);
+}
+
+
+h1 { 
+	background: #4aaaa5;
+	color: white;
+	padding: 30px;
+	margin: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	top: 0;
+	left: 0;
+	position: fixed;
+}
+
+
+.about
+	{
+		background-color: #ffffff;
+		float: right;
+		color: #777777;
+		font-size: 10px;
+		margin: 30px;
+}
+
+
+.connect {
+		float: right;
+		color: #4aaaa5;
+		background-color: #ffffff;
+		padding: 5px;
+		margin-right: 30px; 
+
+}
+
+
+.wrapper {
+	color: #4aaaa5;
+	font: 20px;
+	margin: 50px;
+	padding: 30px;
+	width: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+footer
+	{
+		clear: both;
+		overflow: auto;
+		background-color: #666666;
+		text-align: center;
+		border-color: #4aaaa5;	
+		border-width: 10px;
+		border-style: solid
+}

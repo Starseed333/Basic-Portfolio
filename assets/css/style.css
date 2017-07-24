@@ -1,0 +1,88 @@
+
+
+body {
+ background-image: url(../images/background.png);
+}
+
+h1 { 
+	background: #4aaaa5;
+	color: white;
+	padding: 30px;
+	margin: 0;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	top: 0;
+	left: 0;
+	position: fixed;
+}
+
+
+
+
+p {
+	text-align: left;
+	float: right;
+}
+
+
+.about
+	{
+		background-color: #ffffff;
+		float: right;
+		color: #777777;
+		font-size: 10px;
+		width: 900px;
+		text-align: right;
+}
+
+
+h3 {
+	color: #4aaaa5;
+}
+
+
+.wrapper {
+		clear: both;
+		background-color: #ffffff;
+		width: 500px;
+		float: left;
+		overflow: auto;
+		margin: 50px;
+		padding: 75px;
+
+}
+
+
+.connect {
+		float: left;
+		color: #4aaaa5;
+		background-color: #ffffff;
+		padding: 5px;
+		margin: 30px; 
+
+}
+
+
+footer
+	{
+		clear: both;
+		overflow: auto;
+		background-color: #666666;
+		text-align: center;
+		border-color: #4aaaa5;	
+		border-width: 10px;
+		border-style: solid
+}
+
+.container {
+	background-color: #ffffff;
+    margin: 100px;
+    width: 440px;
+    height: 600px;
+    color: #777777;
+    padding: 12px;
+
+}
+
+
+
+

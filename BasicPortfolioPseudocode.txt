@@ -1,0 +1,6 @@
+1) Move name into white header
+2) The Header link section is not linked correctly
+3) The About Me paragraph has to be moved right
+4) Footer needs less teal color
+5) Contact Box has to be wider and with a squared border
+6) Adjust & Label the pictures on the portfolio
